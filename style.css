@@ -1,0 +1,40 @@
+ .bgimage{
+   height:100vh;
+   background-image:url("C:\Users\dharanikolli\OneDrive\Desktop\uc.jpg");
+   background-size: cover;
+   position:relative;
+ }
+ .bgtext{
+     text-align:right;
+     position: absolute;
+     top: 50%;
+     left:  50%;
+     transform:traslate(-50% ,-50%);
+     color:white;
+ }
+ .bgtitle{
+     font-size:4rem;
+
+ }
+ .bgdesc{
+     font-size: 2rem;
+ }
+ .card{
+    cursor:pointer;
+ 
+ .card:hover{
+     background-color:skyblue;
+     border:5px solid violet;
+ }
+ .bicon{
+    width:100%;
+    text-align:center;
+    font:40px ;
+ }
+ .img-fluid:hover{
+     border:2px solid yellowgreen;
+ }
+ .card-img-top{
+    height:50vh;
+ }
+ }
