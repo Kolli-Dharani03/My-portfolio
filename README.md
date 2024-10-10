@@ -1,2 +1,2 @@
 # My-portfolio
-Created my portfolio using HTML,CSS,JavaScript
+Created my portfolio using HTML,CSS
